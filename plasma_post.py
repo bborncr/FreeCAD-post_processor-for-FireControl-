@@ -23,7 +23,8 @@
 # *                                                                         *
 # *  Modified 2021 by lcorley to support Crossfire(tm) plasma tables        *
 # *                                                                         *
-# *  Updated 2025 by bborncr                                                                       *
+# *  Updated 2025 by bborncr for FreeCAD 1.0 and to support                 *
+# *  the Makerspace Nanaimo plasma table                                    *
 # *                                                                         *
 # ***************************************************************************
 import FreeCAD
